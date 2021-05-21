@@ -1,0 +1,17 @@
+.App {
+  background-color: #c7f184;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-right: 75%;
+}
+
+.str{
+  margin-top: 1.5%;
+  width: 200px;
+  height: 300px;
+  margin-bottom: 1.5%;
+  margin-left: 5%;
+}
+button{
+  margin-left: 5%;
+}
