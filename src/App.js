@@ -13,7 +13,7 @@ function App() {
   
   
   
-  const profession = " PhD Student and Graphics Designer";
+  const profession = " PhD Student";
 
 
 const show = (name) => {
